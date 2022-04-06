@@ -111,6 +111,15 @@ DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,yo9.com
 DOMAIN-SUFFIX,miniapp.bilibili.com
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,show.bilibili.com
+DOMAIN-SUFFIX,cc.map.qq.com
+DOMAIN-SUFFIX,lbs.map.qq.com
+DOMAIN-SUFFIX,upos-sz-staticcos.bilivideo.com
+DOMAIN-SUFFIX,android.bugly.qq.com
+DOMAIN-SUFFIX,i0.hdslb.com
+DOMAIN-SUFFIX,upos-sz-static.bilivideo.com
+DOMAIN-SUFFIX,line3-h5-mobile-api.biligame.com
 IP-CIDR,106.75.74.76/32,no-resolve
 IP-CIDR,111.206.25.147/32,no-resolve
 IP-CIDR,119.3.238.64/32,no-resolve
@@ -119,5 +128,7 @@ IP-CIDR,120.92.113.99/32,no-resolve
 IP-CIDR,120.92.153.217/32,no-resolve
 IP-CIDR,120.240.78.230/32,no-resolve
 IP-CIDR,134.175.207.130/32,no-resolve
+IP-CIDR,203.107.1.66/32,no-resolve
+IP-CIDR,203.107.1.65/32,no-resolve
 PROCESS-NAME,com.bilibili.app.in
 PROCESS-NAME,tv.danmaku.bili
