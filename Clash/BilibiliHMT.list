@@ -5,7 +5,10 @@
 # DOMAIN-SUFFIX: 1
 # DOMAIN: 5
 # TOTAL: 6
-payload:
+
+USER-AGENT,Bilibili*
+USER-AGENT,bili*
+USER-AGENT,bili-inter*
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com
