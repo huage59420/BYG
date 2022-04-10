@@ -7,7 +7,7 @@
 # DOMAIN: 48
 # IP-CIDR: 7
 # TOTAL: 108
-payload:
+
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
 USER-AGENT,bili-inter*
