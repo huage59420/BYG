@@ -1,5 +1,6 @@
 # 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
-# 数量：18条
+# 数量：19条
+DOMAIN,apm-misaka.biliapi.net
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
