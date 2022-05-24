@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,pdfwifi.com
 DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,zhenguanyu.com
-DOMAIN-SUFFIX,dl.playstation.net
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
@@ -309,6 +308,7 @@ DOMAIN-SUFFIX,v-56.com
 # Sony
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,dl.playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
