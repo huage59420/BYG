@@ -1,23 +1,18 @@
-# > KKTV
-USER-AGENT,KKTV*
-USER-AGENT,com.kktv.ios.kktv*
-DOMAIN,kktv-theater.kk.stream
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,kktv.me
-# > Line TV
+
+# Line TV
 USER-AGENT,LINE%20TV*
 USER-AGENT,LINE*
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
-# > 台湾好
+# 台湾好
 USER-AGENT, TaiwanGood*
 DOMAIN-SUFFIX, skyking.com.tw
 DOMAIN, hamifans.emome.net
-# > friDay
+# friDay
 USER-AGENT,friDay*
 DOMAIN-SUFFIX,friday.tw
-# > CATCHPLAY+
+# CATCHPLAY+
 USER-AGENT,CATCHPLAY*
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN,asiaplay-origin.s3.amazonaws.com
