@@ -1,5 +1,5 @@
 #!name=自用DNS over HTTPS/2
 #!desc=强制使用自用DNS DNS over HTTPS
 [General]
-dns-server = 223.5.5.5, 119.29.29.29
+dns-server = 223.5.5.5, 119.29.29.29, 42.193.221.7
 encrypted-dns-server = https://ipv4.ml1.one:3444/dns-query
