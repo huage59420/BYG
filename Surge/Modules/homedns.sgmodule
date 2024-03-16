@@ -1,4 +1,4 @@
-#!name=自用DNS over HTTPS/2
+#!name=自用DNS over HTTPS/3
 #!desc=强制使用自用DNS DNS over HTTPS
 [General]
 dns-server = 223.5.5.5, 223.6.6.6
